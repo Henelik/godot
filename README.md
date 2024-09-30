@@ -1,3 +1,5 @@
+I made this fork so people who have been unjustly banned from the main repo for political reasons can still access the source code.  I will not ban anybody from this fork for political reasons.
+
 # Godot Engine
 
 <p align="center">
